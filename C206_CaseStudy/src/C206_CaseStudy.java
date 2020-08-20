@@ -8,7 +8,7 @@ public class C206_CaseStudy {
 
 		while (option != 5) {
 
-		C206_CaseStudy.menu();
+		C206_CaseStudy.menu();//HASIF
 		option = Helper.readInt("Enter an option > ");
 		}
 	}
